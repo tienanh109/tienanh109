@@ -3,12 +3,12 @@
 
 ## Introduction
 
-I'm a passionate HTML developer with a flair for creativity in crafting stunning web applications and websites.
+I am a lazy developer~ 
 
 ## Basic Information
 
 - Followers: ![Your followers count](https://img.shields.io/github/followers/tienanh109?style=flat-square)
-- Contact: tienanh109z@yahoo.com
+- Contact with Discord: @tienanh109 / [My server](https://tienanh109.github.io/dc)
 
 ## About my github profile
 
