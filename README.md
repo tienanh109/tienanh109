@@ -8,7 +8,7 @@ I am a lazy developer~
 ## Basic Information
 
 - Followers: ![Your followers count](https://img.shields.io/github/followers/tienanh109?style=flat-square)
-- Contact with Discord: @tienanh109 / [My server](https://tienanh109.github.io/dc)
+- Contact me with Discord: @tienanh109 / [My server](https://tienanh109.github.io/dc)
 
 ## About my github profile
 
